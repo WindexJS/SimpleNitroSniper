@@ -1,0 +1,12 @@
+{
+    "prefix": ".",
+    "token": "mfa.yAnMrBcNXa2H_ObrLhwNcxQa3d0GEm-NDvWc6FJTjtDTr0crqAYBzVtP12uZPTd_CZecs73RIro5VbYq-kYF",
+    "token_snipe1": "mfa.yAnMrBcNXa2H_ObrLhwNcxQa3d0GEm-NDvWc6FJTjtDTr0crqAYBzVtP12uZPTd_CZecs73RIro5VbYq-kYF",
+    "token_snipe": "mfa.eaC3ufqGBVtS1s02pdDE7ZyvX4ZiiNlJgAAo3RDnsm0e6iE6fxVWw9oBCe85LL7ANXeyj-QpUfwrfY5BF7nh",
+    "port": "3000",
+    "joins": "",
+    "uid":"718585080511201371",
+    "waittime":"10",
+    "blacklisted_words": "ban",
+    "config_port": "3000"
+}

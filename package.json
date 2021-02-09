@@ -1,0 +1,51 @@
+{
+  "name": "nitro-sniper",
+  "version": "1.0.5",
+  "description": "Auto claims Discord Nitros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Task succeeded\"",
+    "start": "node ."
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/**/*",
+      "src/**/*"
+    ],
+    "targets": [
+      "node12-macos-x64",
+      "node10-win-x64"
+    ]
+  },
+  "author": "windex",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "center-align": "^1.0.1",
+    "colors": "^1.4.0",
+    "console-stamp": "^0.2.9",
+    "console-title": "^1.1.0",
+    "discord-rich-presence": "0.0.8",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "fse": "^4.0.1",
+    "get-port": "^5.1.1",
+    "install": "^0.13.0",
+    "jsonfile": "^6.1.0",
+    "node-notifier": "^9.0.0",
+    "npm": "^7.5.2",
+    "open": "^7.2.1",
+    "pkg": "^4.4.9",
+    "wait-on": "^5.2.1"
+  },
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=14.15.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "discord",
+    "nitro"
+  ]
+}
